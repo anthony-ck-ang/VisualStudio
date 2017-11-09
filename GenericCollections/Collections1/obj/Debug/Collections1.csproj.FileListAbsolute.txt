@@ -1,0 +1,14 @@
+C:\Users\antho\source\repos\GenericCollections\Collections1\bin\Debug\Collections1.exe.config
+C:\Users\antho\source\repos\GenericCollections\Collections1\bin\Debug\Collections1.exe
+C:\Users\antho\source\repos\GenericCollections\Collections1\bin\Debug\Collections1.pdb
+C:\Users\antho\source\repos\GenericCollections\Collections1\obj\Debug\Collections1.csprojResolveAssemblyReference.cache
+C:\Users\antho\source\repos\GenericCollections\Collections1\obj\Debug\Collections1.csproj.CoreCompileInputs.cache
+C:\Users\antho\source\repos\GenericCollections\Collections1\obj\Debug\Collections1.exe
+C:\Users\antho\source\repos\GenericCollections\Collections1\obj\Debug\Collections1.pdb
+C:\Users\antho\Documents\visual-studio-proj\GenericCollections\Collections1\bin\Debug\Collections1.exe.config
+C:\Users\antho\Documents\visual-studio-proj\GenericCollections\Collections1\bin\Debug\Collections1.exe
+C:\Users\antho\Documents\visual-studio-proj\GenericCollections\Collections1\bin\Debug\Collections1.pdb
+C:\Users\antho\Documents\visual-studio-proj\GenericCollections\Collections1\obj\Debug\Collections1.csprojResolveAssemblyReference.cache
+C:\Users\antho\Documents\visual-studio-proj\GenericCollections\Collections1\obj\Debug\Collections1.csproj.CoreCompileInputs.cache
+C:\Users\antho\Documents\visual-studio-proj\GenericCollections\Collections1\obj\Debug\Collections1.exe
+C:\Users\antho\Documents\visual-studio-proj\GenericCollections\Collections1\obj\Debug\Collections1.pdb
